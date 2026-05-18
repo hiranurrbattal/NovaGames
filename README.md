@@ -17,3 +17,23 @@ NovaGames is a Steam-inspired console game platform developed with C# using Obje
 - Serra Hiranur Battal - 25120205038
 - Sude Ağırtaş - 25120205007
 - Mahmut Yasin Uluer - 25120205079
+
+## Contributions
+
+### Serra Hiranur Battal
+- Store system
+- Rating system
+- Achievement system
+- User menu design
+
+### Sude Ağırtaş
+- Admin panel
+- CRUD operations
+- Free/Paid game architecture
+- Search system
+
+### Mahmut Yasin Uluer
+- Authentication system
+- JSON data management
+- User management
+- Exception handling
